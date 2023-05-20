@@ -12,7 +12,7 @@ transformers
 You can install the dependencies using the following command:
 ```
 pip install streamlit pandas transformers
-```
+
 ## Importing Dependencies
 
 The code begins by importing the necessary dependencies: streamlit, pandas, and transformers. These libraries will be used for building the Streamlit app, data manipulation, and loading pre-trained models.
